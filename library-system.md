@@ -15,3 +15,9 @@ Library system to manage books in a library
 - Recommendation system based on what users have read and their interest
 - User profile pages with picture uploads and password reset capabilities
 - Display user read and borrow history
+
+
+## Application Type
+
+- Web Application
+- Mobile Application

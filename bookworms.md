@@ -11,3 +11,5 @@ which can be made public. Have a kanban like board for to-read, reading, read. A
 - Have discussions and reviews about books
 - Social functionalities, leaderboards, personal reading list, favorites
 - provide intricate statistics on books read, pages, reading streaks, comparison with others
+- recommendation engine to recommend books based on titles.
+

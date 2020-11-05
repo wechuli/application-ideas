@@ -1,0 +1,8 @@
+## Description
+
+This is a GitHub App that prevents changes to certain files or directories by pull requests.
+
+Owners can specify (through a yml configuration file) the files/directories they don't want maintainers to change. When a pull request is opened, the app
+will check that none of the directories/files are changed and if they are, close the PR with a message of the files that shouldn't have been changed.
+
+Owners can also specify specific users that are allowed to change these files.
